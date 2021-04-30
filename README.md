@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akashkdubey
 - 👀 I’m interested in applied machine learning.
 - 🌱 I’m currently learning image processing and computer vision.
-- 💞️ I’m looking to collaborate on a research paper.
 - 📫 You can reach me out at - akashdubey826@gmail.com and https://www.linkedin.com/in/akashkdubey/
 
 <!---
