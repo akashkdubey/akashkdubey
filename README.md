@@ -5,3 +5,4 @@
 
 **Contact** ✉️
   - akashdubey826@gmail.com 📫
+  - https://medium.com/@akashkdubey ✍️
