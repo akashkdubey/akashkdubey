@@ -1,6 +1,7 @@
 **Interests** ✨ <br> 
   - Machine Learning  🤖
   - Information Retrieval 🔎
+  - Search & Relevancy
   - Learning to Rank 1️⃣
 
 **Contact** ✉️
